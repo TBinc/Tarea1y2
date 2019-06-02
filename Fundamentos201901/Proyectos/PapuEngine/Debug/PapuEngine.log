@@ -1,0 +1,16 @@
+﻿  MainGame.cpp
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.h(49): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.cpp(31): warning C4244: 'argumento': conversión de 'float' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.cpp(32): warning C4244: 'argumento': conversión de 'float' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.cpp(119): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.cpp(118): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+d:\fundamentos\fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\proyectos\papuengine\maingame.cpp(135): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  PapuEngine.vcxproj -> D:\Fundamentos\Fundamentos201901-8969602d9bc28eaf58311c4ca679195d36a194f7\Proyectos\Debug\PapuEngine.exe
