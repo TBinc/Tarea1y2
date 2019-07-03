@@ -68,10 +68,7 @@ void Level::parseLevel() {
 				playerPosition.y = i* TILE_WIDTH;
 				break;
 			case 'Z':
-				spritebatch.draw(destRect, uvRect,
-					ResourceManager::getTexture("Textures/zombie.png").id,
-					0.0f, color
-				);
+				levelData[i][j] = '.';
 				break;
 			case '.':
 				break;

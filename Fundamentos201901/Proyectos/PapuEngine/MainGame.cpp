@@ -145,7 +145,7 @@ void MainGame::handleInput()
 
 	std::string aux;
 
-	if (inputManager.isKeyPressed(SDLK_z)) {
+	/*if (inputManager.isKeyPressed(SDLK_z)) {
 		spriteBG.push_back(new SpriteBG());
 		glm::vec2 pos(randomX(randomEngine)*TILE_WIDTH,
 			randomY(randomEngine)*TILE_WIDTH);
@@ -168,7 +168,7 @@ void MainGame::handleInput()
 		glm::vec2 pos(randomX(randomEngine)*TILE_WIDTH,
 			randomY(randomEngine)*TILE_WIDTH);
 		spriteBG.back()->init(pos, "Textures/d.png");
-	}
+	}*/
 
 	/*if (inputManager.isKeyPressed(SDLK_w)) {
 		_camera.setPosition(_camera.getPosition() 
